@@ -6,7 +6,8 @@ Simple snake game using python pygame
 
 ## Few Cheat code available here...
 ### Press keys for:-
-``` q: increase score by 10
+```
+ q: increase score by 10
  w: decrease score by 10
  a: increase snake velocity
  s: decrease snake velocity
@@ -15,7 +16,8 @@ Simple snake game using python pygame
  p: pause
  o: resume
  l: change food color (any random color)
- k: change snake color (any random color) ```
+ k: change snake color (any random color) 
+ ```
 
 > Also store in "cheat code.txt"
 
